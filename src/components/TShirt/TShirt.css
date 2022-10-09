@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.t-shirt-img {
+    height: 250px;
+    width: 200px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.buy-btn {
+    background-color: rgb(19, 25, 33);
+    color: #ffff;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+    transition: 0.2s;
+    margin: 3px auto;
+}
+
+.buy-btn:hover {
+    background-color: rgb(54, 54, 54);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.t-shirt-name {
+    margin: 2px auto;
+}
+
+.t-shirt-div {
+    margin: 10px auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 10px;
+    padding: 10px;
+}

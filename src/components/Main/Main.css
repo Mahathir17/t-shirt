@@ -1,0 +1,13 @@
+nav {
+    background-color: #131921;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.navLink {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ffff;
+    font-size: 20px;
+}
